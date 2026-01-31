@@ -5,6 +5,7 @@ This project performs an end-to-end **financial and trend analysis** of **:conte
 The analysis focuses on understanding **revenue growth, profitability trends, margin behaviour, and long-term business performance** using Python.
 
 The objective is to extract **decision-oriented insights** from historical financial data and evaluate McDonald’s business performance across economic cycles.
+Link to original raw file -- https://www.kaggle.com/datasets/mampihemram/mcdonalds-financial-statements-2002-2022
 
 ---
 
